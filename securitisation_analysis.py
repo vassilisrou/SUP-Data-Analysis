@@ -1,9 +1,9 @@
 # =============================================================================
 # Securitisation Portfolio Analysis
 # =============================================================================
-# This script simulates a portfolio of securitisation transactions, computes
+# This script simulates a hypothetical portfolio of securitisation transactions, computes
 # tranche-level metrics (attachment/detachment points, capital benefit,
-# NPL classification), and produces a multi-panel supervisory dashboard.
+# NPL classification), and produces a multi-panel dashboard with different metrics fit for supervisory purposes.
 #
 # Methodology references:
 #   - CRR Article 242 (tranche seniority definitions)
